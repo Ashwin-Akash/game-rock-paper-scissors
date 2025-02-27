@@ -19,7 +19,7 @@ def game():
                 print("computer won")
             else:
                 print("you won")
-        elif user=='scissors':yes
+        elif user=='scissors':
             if computer=='rock':
                 print("computer won")
             else:
